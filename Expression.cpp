@@ -5,7 +5,7 @@ int main()
     
     int a, b, sum, difference, product, quotient, remainder;
 
-    cout << "Enter first number: ";
+    cout << "Enter 1st number: ";
     cin >> a;
 
     cout << "Enter second number: ";
